@@ -1,0 +1,19 @@
+{
+  "name": "array-unflatten",
+  "version": "0.0.2",
+  "description": "unflatten array",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "flat",
+    "unflatten",
+    "array"
+  ],
+  "author": "Dilter Porto",
+  "license": "ISC",
+  "dependencies": {
+    "flat": "^4.0.0"
+  }
+}
